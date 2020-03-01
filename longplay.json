@@ -3,7 +3,7 @@
     {
       "id": 1,
       "title": "Pode entrar",
-      "thumb": "ivete-sangalo1.jpg",
+      "thumb": "https://raw.githubusercontent.com/MicroFrontEndExperiment/database/master/thumbs/ivete-sangalo1.jpg",
       "value": 12.00,
       "category": "axe",
       "artist": "Ivete Sangalo",
@@ -16,8 +16,8 @@
     {
         "id": 2,
         "title": "Harmonia",
-        "thumb": "harmonia.jpg",
-        "value": 10.00,
+        "thumb": "https://raw.githubusercontent.com/MicroFrontEndExperiment/database/master/thumbs/harmonia.jpg",
+        "value": 2.00,
         "category": "pagode",
         "artist": "Harmonia do Samba",
         "musics": [
@@ -29,8 +29,8 @@
       {
         "id": 3,
         "title": "Dream Theater",
-        "thumb": "dream-theater2.jpg",
-        "value": 10.00,
+        "thumb": "https://raw.githubusercontent.com/MicroFrontEndExperiment/database/master/thumbs/dream-theater2.jpg",
+        "value": 30.00,
         "category": "rock",
         "artist": "Dream Theater",
         "musics": [
@@ -42,8 +42,8 @@
       {
         "id": 4,
         "title": "Distance over time",
-        "thumb": "dream-theater1.jpg",
-        "value": 10.00,
+        "thumb": "https://raw.githubusercontent.com/MicroFrontEndExperiment/database/master/thumbs/dream-theater1.jpg",
+        "value": 35.00,
         "category": "rock",
         "artist": "Dream Theater",
         "musics": [
@@ -55,8 +55,8 @@
       {
         "id": 4,
         "title": "Emotional dance",
-        "thumb": "andrea-motis.jpg",
-        "value": 10.00,
+        "thumb": "https://raw.githubusercontent.com/MicroFrontEndExperiment/database/master/thumbs/andrea-motis.jpg",
+        "value": 20.00,
         "category": "jazz",
         "artist": "Andrea Motis",
         "musics": [
@@ -68,8 +68,8 @@
       {
         "id": 5,
         "title": "Between clouds",
-        "thumb": "adrien-moignard.jpg",
-        "value": 10.00,
+        "thumb": "https://raw.githubusercontent.com/MicroFrontEndExperiment/database/master/thumbs/adrien-moignard.jpg",
+        "value": 30.00,
         "category": "jazz",
         "artist": "Adrien Moignard",
         "musics": [
